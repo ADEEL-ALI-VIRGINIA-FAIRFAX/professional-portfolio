@@ -9,9 +9,6 @@ experience across finance, technology, telecommunications, manufacturing, and fe
 government sectors. His work has focused on operations leadership, IT program
 management, and business transformation initiatives.
 
-**Recent roles:**
-- Operations and Program Manager — Alecta Enterprise (2023–present)
-- Manager, IT Program Operations — WestRock (2022–2023)
 
 **Education:**
 - George Mason University, School of Business
@@ -28,7 +25,4 @@ See PUBLICATIONS.md for the full citation record.
 
 Selected work across transformation programs in telecom, manufacturing, defense, and finance - building PMO functions, standing up KPI/OKR frameworks, and reducing operating costs without sacrificing delivery speed. See PROJECTS.md for details.
 
-## Contact
 
-- Email: adeelarshadali@gmail.com
-- Location: Falls Church, Virginia
