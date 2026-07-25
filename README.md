@@ -32,7 +32,12 @@ management, and business transformation initiatives.
 
 See [`PUBLICATIONS.md`](./PUBLICATIONS.md) for the full citation record.
 
-## Contact
-
-- Email: adeelarshadali@gmail.com
-- Location: Falls Church, Virginia
+https://www.ijoi-online.org/attachments/article/45/FINAL%20ISSUE%20VOL%208%20NUM%201%20JULY%202015.pdf#page=24
+Academic & Technical Archive: Zenodo Global Digital Repository https://zenodo.org/records/20536411
+https://www.slideshare.net/slideshow/continuous-improvement-in-it-is-mostly-a-lie-by-adeel-ali-virginia/288097509
+https://www.connectively.us/p/adeel-ali-7849
+https://github.com/ADEEL-ALI-VIRGINIA-FAIRFAX
+***
+*Discover complete technical frameworks, open-source publication archives, and systems architecture blueprints on the [Adeel Ali Publications GitHub Repository](https://github.com/ADEEL-ALI-VIRGINIA-FAIRFAX/adeel-ali-publications).*
+https://www.crunchbase.com/person/adeel-ali-f640
+https://www.youtube.com/@ADEEL_ALI_Technology_Expert
