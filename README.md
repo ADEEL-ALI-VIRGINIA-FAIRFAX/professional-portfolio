@@ -9,9 +9,7 @@ experience across finance, technology, telecommunications, manufacturing, and fe
 government sectors. His work has focused on operations leadership, IT program
 management, and business transformation initiatives.
 
-**Recent roles:**
-- Operations and Program Manager — Alecta Enterprise (2023–present)
-- Manager, IT Program Operations — WestRock (2022–2023)
+
 
 **Education:**
 - George Mason University, School of Business
