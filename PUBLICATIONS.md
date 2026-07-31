@@ -29,6 +29,24 @@ available at the publisher link above.
 
 ---
 
+## Industry Commentary & Analysis
+
+### The Great AI Capex Divergence: Why Wall Street Rewarded Microsoft and Punished Meta
+
+**Author:** Adeel Ali
+**Published:** Medium, July 2026
+**Link:** https://medium.com/@adeel-ali-virginia/the-great-ai-capex-divergence-why-wall-street-rewarded-microsoft-and-punished-meta-5388c97162b4
+
+**Summary:** A market analysis piece comparing Microsoft's and Meta's most recent
+quarterly earnings and capital expenditure disclosures. The piece argues that Wall
+Street's divergent reaction — rewarding Microsoft while punishing Meta — reflects a
+shift from open-ended AI infrastructure spending toward stricter ROI accountability.
+It contrasts Microsoft's direct cloud monetization path (Azure growth, a large
+commercial backlog) against Meta's heavier near-term cash flow squeeze from
+capex tied to longer-horizon consumer AI and metaverse ambitions.
+
+---
+
 *This document reflects verified, real publication history. It is not intended to
 misrepresent scope of authorship or research area beyond what is stated in the
 published record.*
