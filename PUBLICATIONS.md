@@ -72,6 +72,35 @@ Search, and stronger spam/low-quality detection — and what those shifts mean f
 tech professionals building a public reputation through in-depth, community-specific
 writing rather than short viral posts.
 
+### The 2026 Tech Budget Paradox: Why CIOs Are Spending More on AI While Trusting It Less
+
+**Author:** Adeel Ali
+**Published:** Medium, August 2026
+**Link:** https://medium.com/@ADEEL_ALI_FAIRFAX/the-2026-tech-budget-paradox-why-cios-are-spending-more-on-ai-while-trusting-it-less-ad6a205e4842
+
+**Summary:** An analysis of the gap between rising enterprise AI spend and lagging
+confidence in deploying it. Drawing on third-party research (Foundry's CIO Tech
+Poll, McKinsey's internal Lilli platform data), the piece argues that agentic AI is
+winning the research race but not the deployment race, that security concerns — not
+budget or skills — are the leading obstacle to rollout, and that quantum computing's
+rise adds a cryptographic urgency most organizations are not yet addressing. It
+extends the governance question beyond office software into industrial and
+operational technology environments.
+
+### Beyond the Hype: 5 Tech & AI Realities That Will Define 2026
+
+**Author:** Adeel Ali
+**Published:** Medium, August 2026
+**Link:** https://medium.com/@ADEEL_ALI_FAIRFAX/beyond-the-hype-5-tech-ai-realities-that-will-define-2026-59544fb9d49b
+
+**Summary:** A forward-looking piece identifying five structural shifts shaping
+enterprise technology in 2026: a pivot from raw model scale to compute efficiency
+and specialized silicon; the rise of multi-agent "control plane" systems built
+around commoditized models; the replacement of monolithic document processing with
+agentic, structure-aware parsing pipelines; practical (hybrid) quantum advantage
+alongside classical compute; and sovereign AI/data governance as a first-class
+architectural requirement rather than an afterthought.
+
 ---
 
 *This document reflects verified, real publication history. It is not intended to
