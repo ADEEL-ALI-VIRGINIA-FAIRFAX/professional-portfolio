@@ -29,50 +29,55 @@ available at the publisher link above.
 
 ---
 
-## Self-Published Technical Whitepapers (Zenodo)
+## Technical Whitepapers (Zenodo / DOI-Registered)
 
-**Important distinction:** The items below are self-deposited to Zenodo, a general-purpose
-open repository operated by CERN/OpenAIRE. Zenodo assigns a DOI to any deposit that
-meets its basic upload criteria — it does **not** conduct peer review. These are
-self-published technical whitepapers, not peer-reviewed academic publications, and
-are listed separately from the IJOI paper above to keep that distinction clear.
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20807122.svg)](https://doi.org/10.5281/zenodo.20807122) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20586724.svg)](https://doi.org/10.5281/zenodo.20586724) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20536411.svg)](https://doi.org/10.5281/zenodo.20536411)
+
+Three technical whitepapers deposited on Zenodo (CERN/OpenAIRE), each with a
+permanent, citable DOI. *Publishing note: Zenodo is an open-deposit repository —
+it assigns DOIs on upload and does not run editorial peer review, so these are
+self-published technical writing rather than peer-reviewed journal articles like
+the IJOI paper above.*
 
 ### The Dual-Edge Paradox: Navigating Enterprise Infrastructure Opportunities and Systemic Disasters in the Era of Autonomous AI
 
 **Author:** Adeel Ali
-**Published:** Zenodo (self-deposited), June 2026 — DOI: 10.5281/zenodo.20807122
+**DOI:** [10.5281/zenodo.20807122](https://doi.org/10.5281/zenodo.20807122)
+**Published:** Zenodo, June 2026
 **Link:** https://zenodo.org/records/20807122
 
-**Summary:** A self-published technical article arguing that autonomous AI systems
-present enterprises with a dual-edge tradeoff: substantial gains from automated
-inference and edge computing, set against systemic risk from deploying probabilistic
-models without deterministic guardrails — including technical debt, cloud cost
-overruns, and compliance exposure. Proposes a risk-mitigation framework aimed at
-the Northern Virginia technology corridor.
+**Summary:** Argues that autonomous AI systems present enterprises with a dual-edge
+tradeoff: substantial gains from automated inference and edge computing, set
+against systemic risk from deploying probabilistic models without deterministic
+guardrails — including technical debt, cloud cost overruns, and compliance
+exposure. Proposes a risk-mitigation framework aimed at the Northern Virginia
+technology corridor.
 
 ### Corporate Governance, Risk Allocation, and Compliance Frameworks in Enterprise Systems Infrastructure
 
 **Author:** Adeel Ali
-**Published:** Zenodo (self-deposited), June 2026 — DOI: 10.5281/zenodo.20586724
+**DOI:** [10.5281/zenodo.20586724](https://doi.org/10.5281/zenodo.20586724)
+**Published:** Zenodo, June 2026
 **Link:** https://zenodo.org/records/20586724
 
-**Summary:** A self-published technical briefing proposing an operational model for
-mitigating corporate liability and vendor risk in enterprise IT infrastructure,
-centered on a three-layer governance model (institutional governance, human-in-the-loop
-operational validation, and automated infrastructure) and a vendor-risk protocol
-covering SLAs, cryptographic auditing, and FinOps-based resource visibility.
+**Summary:** Proposes an operational model for mitigating corporate liability and
+vendor risk in enterprise IT infrastructure, centered on a three-layer governance
+model (institutional governance, human-in-the-loop operational validation, and
+automated infrastructure) and a vendor-risk protocol covering SLAs, cryptographic
+auditing, and FinOps-based resource visibility.
 
 ### Enterprise Infrastructure and Cyber-Resilience Frameworks for 2026: Architectural Blueprints for High-Velocity Digital Ecosystems
 
 **Author:** Adeel Ali
-**Published:** Zenodo (self-deposited), June 2026 — DOI: 10.5281/zenodo.20536411
+**DOI:** [10.5281/zenodo.20536411](https://doi.org/10.5281/zenodo.20536411)
+**Published:** Zenodo, June 2026
 **Link:** https://zenodo.org/records/20536411
 
-**Summary:** A self-published technical whitepaper proposing a framework spanning
-edge computing and private 5G in industrial automation, post-quantum cryptography
-for "store now, decrypt later" threats, structural cloud-cost optimization (FinOps),
-and operational engineering discipline as an alternative to superficial continuous-
-improvement initiatives, framed around Virginia's data-center corridor.
+**Summary:** Proposes a framework spanning edge computing and private 5G in
+industrial automation, post-quantum cryptography for "store now, decrypt later"
+threats, structural cloud-cost optimization (FinOps), and operational engineering
+discipline as an alternative to superficial continuous-improvement initiatives,
+framed around Virginia's data-center corridor.
 
 ---
 
