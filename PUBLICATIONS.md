@@ -29,6 +29,53 @@ available at the publisher link above.
 
 ---
 
+## Self-Published Technical Whitepapers (Zenodo)
+
+**Important distinction:** The items below are self-deposited to Zenodo, a general-purpose
+open repository operated by CERN/OpenAIRE. Zenodo assigns a DOI to any deposit that
+meets its basic upload criteria — it does **not** conduct peer review. These are
+self-published technical whitepapers, not peer-reviewed academic publications, and
+are listed separately from the IJOI paper above to keep that distinction clear.
+
+### The Dual-Edge Paradox: Navigating Enterprise Infrastructure Opportunities and Systemic Disasters in the Era of Autonomous AI
+
+**Author:** Adeel Ali
+**Published:** Zenodo (self-deposited), June 2026 — DOI: 10.5281/zenodo.20807122
+**Link:** https://zenodo.org/records/20807122
+
+**Summary:** A self-published technical article arguing that autonomous AI systems
+present enterprises with a dual-edge tradeoff: substantial gains from automated
+inference and edge computing, set against systemic risk from deploying probabilistic
+models without deterministic guardrails — including technical debt, cloud cost
+overruns, and compliance exposure. Proposes a risk-mitigation framework aimed at
+the Northern Virginia technology corridor.
+
+### Corporate Governance, Risk Allocation, and Compliance Frameworks in Enterprise Systems Infrastructure
+
+**Author:** Adeel Ali
+**Published:** Zenodo (self-deposited), June 2026 — DOI: 10.5281/zenodo.20586724
+**Link:** https://zenodo.org/records/20586724
+
+**Summary:** A self-published technical briefing proposing an operational model for
+mitigating corporate liability and vendor risk in enterprise IT infrastructure,
+centered on a three-layer governance model (institutional governance, human-in-the-loop
+operational validation, and automated infrastructure) and a vendor-risk protocol
+covering SLAs, cryptographic auditing, and FinOps-based resource visibility.
+
+### Enterprise Infrastructure and Cyber-Resilience Frameworks for 2026: Architectural Blueprints for High-Velocity Digital Ecosystems
+
+**Author:** Adeel Ali
+**Published:** Zenodo (self-deposited), June 2026 — DOI: 10.5281/zenodo.20536411
+**Link:** https://zenodo.org/records/20536411
+
+**Summary:** A self-published technical whitepaper proposing a framework spanning
+edge computing and private 5G in industrial automation, post-quantum cryptography
+for "store now, decrypt later" threats, structural cloud-cost optimization (FinOps),
+and operational engineering discipline as an alternative to superficial continuous-
+improvement initiatives, framed around Virginia's data-center corridor.
+
+---
+
 ## Career & Practitioner Essays
 
 ### The Quiet War Between Project Management and Operations Management — And How Good Companies End It
@@ -190,7 +237,7 @@ what sustain reader trust and search visibility over time.
 
 *This document reflects verified, real publication history. It is not intended to
 misrepresent scope of authorship or research area beyond what is stated in the
-published record.*
+published record. Peer-reviewed and self-published work are clearly separated above.*
 
 *Note: A handful of additional Medium posts on this author's profile (covering
 Virginia tech-corridor infrastructure topics, AI governance, and regional career
