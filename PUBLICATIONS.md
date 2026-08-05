@@ -29,6 +29,49 @@ available at the publisher link above.
 
 ---
 
+## Career & Practitioner Essays
+
+### The Quiet War Between Project Management and Operations Management — And How Good Companies End It
+
+**Author:** Adeel Ali
+**Published:** Medium, May 2026
+**Link:** https://medium.com/@adeel-ali-virginia/the-quiet-war-between-project-management-and-operations-management-and-how-good-companies-end-it-d73b94ec32a9
+
+**Summary:** A practitioner essay on the structural tension between Project
+Management (optimizing for successful transitions) and Operations Management
+(optimizing for stability), drawn from the author's experience sitting on both
+sides of that divide. Identifies five recurring friction points — project closure
+timing, change control, resource allocation, post-go-live defect ownership, and
+documentation quality — and four concrete practices well-run organizations use to
+resolve them: shared success metrics spanning the full project lifecycle,
+operations representation embedded from project inception, a defined joint
+stabilization period with shared accountability, and operations sign-off on
+documentation quality.
+
+### What I'd Tell a Junior IT Person in Northern Virginia Today
+
+**Author:** Adeel Ali
+**Published:** Medium, May 2026
+**Link:** https://medium.com/@adeel-ali-virginia/what-id-tell-a-junior-it-person-in-northern-virginia-today-116380b425f6
+
+**Summary:** A twelve-point career-advice essay for early-career technology workers
+in the Northern Virginia / DC market, covering the region's distinct labor-market
+dynamics (federal-adjacency, clearance economics), the value of depth before
+breadth, salary negotiation, selective use of certifications, and the long-run
+view of a 30+ year IT career.
+
+### The Senior People Who Made Me, And What I Owe Them
+
+**Author:** Adeel Ali
+**Published:** Medium, May 2026
+**Link:** https://medium.com/@adeel-ali-virginia/the-senior-people-who-made-me-and-what-i-owe-them-2e9cb633b041
+
+**Summary:** A personal essay on a former manager and coworkers who helped the
+author finish his degree while working full-time, and the practice of extending
+that same flexibility to junior colleagues today.
+
+---
+
 ## Industry Commentary & Analysis
 
 ### The Great AI Capex Divergence: Why Wall Street Rewarded Microsoft and Punished Meta
@@ -71,6 +114,20 @@ signals, reduced reliance on early upvote velocity, tighter integration with Goo
 Search, and stronger spam/low-quality detection — and what those shifts mean for
 tech professionals building a public reputation through in-depth, community-specific
 writing rather than short viral posts.
+
+### The User-Generated Sovereign: Why Reddit Dominates the 2026 Search Ecosystem
+
+**Author:** Adeel Ali
+**Published:** Medium, July 2026
+**Link:** https://medium.com/@adeel-ali-virginia/the-user-generated-sovereign-why-reddit-dominates-the-2026-search-ecosystem-cc49dd8a43dc
+
+**Summary:** An analysis of Reddit's growth into one of the most-visited sites in
+the U.S., attributing it to data-licensing partnerships with AI developers and
+search engines, an upvote/moderation system that resists manipulation better than
+static SEO, and a shift in user behavior toward long-form thread reading over feed
+scanning. Argues that technical professionals building a public reputation should
+treat their portfolios as cross-linked, verifiable technical footprints rather than
+static keyword-optimized pages.
 
 ### The 2026 Tech Budget Paradox: Why CIOs Are Spending More on AI While Trusting It Less
 
@@ -134,3 +191,7 @@ what sustain reader trust and search visibility over time.
 *This document reflects verified, real publication history. It is not intended to
 misrepresent scope of authorship or research area beyond what is stated in the
 published record.*
+
+*Note: A handful of additional Medium posts on this author's profile (covering
+Virginia tech-corridor infrastructure topics, AI governance, and regional career
+content) are not yet reflected here pending link confirmation.*
