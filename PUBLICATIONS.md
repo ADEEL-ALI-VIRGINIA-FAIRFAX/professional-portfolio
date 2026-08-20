@@ -100,6 +100,20 @@ operations representation embedded from project inception, a defined joint
 stabilization period with shared accountability, and operations sign-off on
 documentation quality.
 
+### The Shift in Project Management: How AI Is Redefining Project Management Leadership Beyond the Gantt Chart
+
+**Author:** Adeel Ali
+**Published:** Medium, August 2026
+**Link:** https://medium.com/@ADEEL_ALI_FAIRFAX/the-shift-in-project-management-how-ai-is-redefining-project-management-leadership-beyond-the-c8940def0819
+
+**Summary:** Argues that AI is shifting the project manager's role from status-tracking
+coordinator to strategic interpreter, as predictive forecasting, intelligent resource
+allocation, proactive risk scoring, and automated knowledge retrieval take over the
+reactive reporting work that used to define the job. Contends that human judgment
+remains indispensable for cross-functional alignment and stakeholder management,
+and that the project leaders who combine technical fluency with human leadership
+will be the ones who deliver the most value going forward.
+
 ### What I'd Tell a Junior IT Person in Northern Virginia Today
 
 **Author:** Adeel Ali
