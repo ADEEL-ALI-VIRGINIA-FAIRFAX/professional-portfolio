@@ -264,6 +264,35 @@ business strategy to drive recurring cloud-subscription revenue and shorten devi
 lifespans, contrasted against modern repairability standards (citing iFixit
 teardown data) and effectively engineered upgrade cycles.
 
+### Why Most Enterprise Blockchain Projects Fail (And How to Fix Them)
+
+**Author:** Adeel Ali
+**Published:** Medium, August 2026
+**Link:** https://medium.com/@adeel-ali-virginia/why-most-enterprise-blockchain-projects-fail-and-how-to-fix-them-8a56bc6a0966
+
+**Summary:** Argues that enterprise blockchain pilots stall for organizational, not
+technical, reasons — citing Gartner and Chain Launch data on pilot failure rates.
+Identifies four recurring failure patterns: adopting blockchain without a genuine
+multi-party trust problem, unresolved consortium governance (cost-sharing, upgrade
+approval, liability), overly disruptive "rip and replace" pitches that ignore legacy
+integration, and underestimating production-scale operations (node count, privacy,
+key management). Proposes a "multi-party friction test" for deciding whether a
+problem actually needs a distributed ledger versus a standard database.
+
+### Samsung's Vision vs. Apple's Playbook: The Foldable Phone Era Hits Its Tipping Point
+
+**Author:** Adeel Ali
+**Published:** Medium, August 2026
+**Link:** https://medium.com/@adeel-ali-virginia/samsungs-vision-vs-apple-s-playbook-the-foldable-phone-era-hits-its-tipping-point-b01c42453ab8
+
+**Summary:** Traces Samsung's seven generations of Galaxy Z Fold/Flip hardware
+iteration (hinge mechanics, durability, software) that established the foldable
+category, then examines industry reporting on Apple's rumored entry into foldables
+and what a slower, "definitive" Apple approach could mean for crease reduction,
+thickness, and ecosystem integration. Weighs the current pros (multitasking,
+screen real estate, camera versatility) against cons (price, mechanical wear,
+crease visibility, weight) of today's foldable phones.
+
 ---
 
 *This document reflects verified, real publication history. It is not intended to
